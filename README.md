@@ -1,5 +1,6 @@
 # Micro Horde
 A game where you try and recruit as many NPCs as possible and then survive as long as you can.
+https://supersyk.github.io/Micro-Horde/
 
 ## Instructions
 -> ARROW KEYS to move
