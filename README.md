@@ -12,7 +12,6 @@ A game where you try and recruit as many NPCs as possible and then survive as lo
 -> Press R to restart
 
 ## Power Ups
-There are six power ups:
 1. Invincibility
 -> Immune for five seconds
 -> Run into zombies to kill them
